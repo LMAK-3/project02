@@ -1,0 +1,15 @@
+.property_img{
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    align-items: center;
+}
+
+.property_photo{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.5);
+}

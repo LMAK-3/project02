@@ -1,0 +1,23 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    
+}
+
+a:link, a:visited{
+    color: black;
+    cursor: pointer;
+}
+
+main{
+    background-color: #363C4F;
+    height: 100vh;
+}
+
+li{
+    list-style-type: none;
+}
+
+.hidden{
+    display: none;
+}
